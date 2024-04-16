@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/pjain0121/nodejs)
 - <b>Web Development (NOdejs, Javascript, Mysql)</b>
   - [Employeement / Client Management](https://github.com/pjain0121/nodejs) <b><i>(Potentially NSFW)</b></i>
 - <b>Network & Operating System Principles</b>
