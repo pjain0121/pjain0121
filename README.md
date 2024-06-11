@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Web Development (NOdejs, Javascript, Mysql)</b>
-  - [Employeement / Client Management](https://github.com/pjain0121/nodejs) <b><i>(Potentially NSFW)</b></i>
+  - [Employeement / Client Management](https://github.com/pjain0121/nodejs)
 - <b>Network & Operating System Principles</b>
   - [Schat (Chat Server)](https://github.com/pjain0121/schat)
 - <b>Java / Javafx)</b>
